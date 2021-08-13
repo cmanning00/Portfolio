@@ -1,4 +1,4 @@
-Link to porfolio: 
+Link to porfolio: **Currently under development**
 
 My portfolio built using [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio)\
-test https://github.com/cobidev/gatsby-simplefolio
+
