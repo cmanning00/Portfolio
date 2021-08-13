@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'CM_profile_cropped',
   paragraphOne: 'I’m a Master of Computer Science student at the University of Illinois Urbana-Champaign.  Currently, I’m in my third semester or a little more than halfway through my program.',
-  paragraphTwo: 'As an aspiring data scientist, I love to work with data.  I think it is incredible how you can take data that at first provides little insight but with some cleaning and analysis, tells an incredibly compelling story.',
+  paragraphTwo: 'As an aspiring data scientist, I love to work with data.  I think it is incredible how you can take data that at first provides little insight, but with some cleaning and analysis, tells an incredibly compelling story.',
   paragraphThree: 'When I’m not studying data science, some of the things I like include biology, technical analysis, playing the piano, practicing my Spanish and much more!',
   resume: '', // if no resume, the button will not show up
 };
