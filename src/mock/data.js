@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'Linear Regression Proj',
     title: 'Linear Regression Analysis - Summer 2021',
     info: 'This was a group project as part of my statistics class. The goal was to build the best linear model we could using various methods for any publicly available dataset.',
-    info2: 'We analyzed a dataset looking at weather conditions in Australia and modeled rainfall.',
+    info2: 'We analyzed a dataset looking at weather conditions in Australia and modeled rainfall amounts.',
     url: 'https://cmanning00.github.io/Linear-Regression-Project/',
     repo: 'https://github.com/cmanning00/Linear-Regression-Project', // if no repo, the button will not show up
   },
