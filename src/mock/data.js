@@ -46,7 +46,7 @@ export const projectsData = [
   },*/
   {
     id: nanoid(),
-    img: 'BTC.jpg',
+    img: 'BTC',
     title: 'Bitcoin Tweet Sentiment Analysis',
     info: 'In this project I attempt to predict the next-day price movement of bitcoin by performing sentiment analysis on bitcoin-related tweets',
     info2: 'I walk through my entire process from cleaning the data to building an actual model.',
