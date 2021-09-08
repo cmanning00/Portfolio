@@ -35,7 +35,7 @@ export const projectsData = [
     url: 'https://public.tableau.com/app/profile/colton.manning/viz/DashboardMajorEarthquakesFinal/MajorEarthquakes#2',
     repo: '', // if no repo, the button will not show up
   },
-  {
+  /*{
     id: nanoid(),
     img: 'Linear Regression Proj',
     title: 'Linear Regression Analysis - Summer 2021',
@@ -43,8 +43,16 @@ export const projectsData = [
     info2: 'We analyzed a dataset looking at weather conditions in Australia and modeled rainfall amounts.',
     url: 'https://cmanning00.github.io/Linear-Regression-Project/',
     repo: 'https://github.com/cmanning00/Linear-Regression-Project', // if no repo, the button will not show up
+  },*/
+  {
+    id: nanoid(),
+    img: 'BTC.jpg',
+    title: 'Bitcoin Tweet Sentiment Analysis',
+    info: 'In this project I attempt to predict the next-day price movement of bitcoin by performing sentiment analysis on bitcoin-related tweets',
+    info2: 'I walk through my entire process from cleaning the data to building an actual model.',
+    url: 'https://cmanning00.github.io/BTC-Twitter-Sentiment/',
+    repo: 'https://github.com/cmanning00/BTC-Twitter-Sentiment', // if no repo, the button will not show up
   },
-  
   {
     id: nanoid(),
     img: 'project.jpg',
