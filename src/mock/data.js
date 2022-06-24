@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: ,
+    img: '',
     title: "Age and Gender Prediction - (In progress)", //(2150 B.C. - 2021)",
     info: '',
     info2: '',
