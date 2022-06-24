@@ -28,6 +28,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: ,
+    title: "Age and Gender Prediction - (In progress)", //(2150 B.C. - 2021)",
+    info: '',
+    info2: '',
+    url: '',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Earthquake_Dashboard',
     title: "Deadliest Earthquakes - Summer 2021", //(2150 B.C. - 2021)",
     info: 'I started this project as part of my Data Visualization class and have expanded upon it since then.  We were assigned to create a dashboard using any publicly available dataset.',
