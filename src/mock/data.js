@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'Age_Gender_Classify_Pic',
     title: "Age and Gender Prediction - (In progress)", //(2150 B.C. - 2021)",
     info: 'In this project I attempt to predict the age and gender of an individual given a face photo.  I have designed and trained a CNN to classify gender with around 92% accuracy so far.',
     info2: 'I am currently working on buidling another CNN classifier for age prediction.  I also plan to create a program that allows you to try out the classifiers on your own face photo using a web camera.',
